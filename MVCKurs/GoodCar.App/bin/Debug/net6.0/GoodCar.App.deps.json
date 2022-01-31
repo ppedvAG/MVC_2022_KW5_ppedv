@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GoodCar.App/1.0.0": {
+        "dependencies": {
+          "GoodCar.Entities": "1.0.0",
+          "GoodCar.Service": "1.0.0"
+        },
+        "runtime": {
+          "GoodCar.App.dll": {}
+        }
+      },
+      "GoodCar.Entities/1.0.0": {
+        "dependencies": {
+          "GoodCar.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "GoodCar.Entities.dll": {}
+        }
+      },
+      "GoodCar.Interfaces/1.0.0": {
+        "runtime": {
+          "GoodCar.Interfaces.dll": {}
+        }
+      },
+      "GoodCar.Service/1.0.0": {
+        "dependencies": {
+          "GoodCar.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "GoodCar.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GoodCar.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoodCar.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoodCar.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoodCar.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

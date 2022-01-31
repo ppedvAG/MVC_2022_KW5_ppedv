@@ -1,14 +1,15 @@
 ﻿PPEDV-Kurs: 31.01.2022 -> ASP.NET MVC 6 
 
 Montag / Dienstag 
-- [ ] Einführungs DI 
-- [ ] Dependency Injection / Seperation of Concerne (3 Stunden) 
+- [x] Einführungs DI 
+- [x] Dependency Injection / Seperation of Concerne (3 Stunden) 
 - [ ] Startup-Klasse mit .NET 6 vergleichen 
-
-- [ ] IServiceCollection / ServiceProvider
+- [x] IServiceCollection / ServiceProvide
 - [ ] Singleton / Scoped / Transient 
+
 - [ ] Konfigurationen einlesen -> Dependency Injcetion + Konfigurationen
 - [ ] Logging 
+- [ ] MVC-Default Project
 - [ ] Präsentationsschicht (1 Stunde) 
 - [ ] Razor-Syntax / RazorEngine 
 - [ ] Bootstrap
@@ -25,8 +26,6 @@ Die Controller-Klasse (MVC)
 - [ ] Data Annotations 
 - [ ] Validierung (clientseitig und serverseitig)
 - [ ] Gehen Geldbeträge mit Komma?
-- [ ] Upload von Bilddateien + einfache Darstellung in einer Gallery
-
 
 - [ ] EF Core Einstieg (flexibel)
   - [ ] Code First / Code First Reverse
@@ -39,6 +38,7 @@ Die Controller-Klasse (MVC)
   - [ ] PartialView with jQuery - Ajax Call
 - [ ] HTML-Helper
 - [ ] TagHelpers
+- [ ] ViewComponents -> siehe Freitag
 
 
 
@@ -46,7 +46,7 @@ Freitag
 - [ ] Übung Gästebuch (GET/POST) + EFCore(Model erstellen, DbContext-Klasse, Rollout auf DB)
 
 State-Management
-- [ ] ViewData////
+- [ ] ViewData
 - [ ] ViewBag
 - [ ] TempData
 - [ ] Session-Handling -> Bauen einen Warenkorb (mit Artikel entfernen)
@@ -61,9 +61,13 @@ State-Management
 
 Middleware
 - [ ] Middleware -> Was ist ein Pipeline (Use, Run, Map)
+- [ ] Upload von Bilddateien + einfache Darstellung in einer Gallery (Formularverbeitung Bezug Dienstag)
 - [ ] Customize Middleware für formatierte Bildausgaben (Gallery)+ In Verbindung mit einem Bild-Upload-Formular
 - [ ] Filter -> https://docs.microsoft.com/de-de/aspnet/core/mvc/controllers/filters?view=aspnetcore-5.0#resource-filters
 - [ ] AuthorisationFilter Sample (Read and Write Sample)
+
+[Montag]
+- [ ] Azure AD - Authentifizierung -> TenandId
 
 
 

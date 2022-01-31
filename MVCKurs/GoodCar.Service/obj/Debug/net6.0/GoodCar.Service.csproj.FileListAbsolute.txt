@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Service\bin\Debug\net6.0\GoodCar.Service.deps.json
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Service\bin\Debug\net6.0\GoodCar.Service.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Service\bin\Debug\net6.0\ref\GoodCar.Service.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Service\bin\Debug\net6.0\GoodCar.Service.pdb
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Service\bin\Debug\net6.0\GoodCar.Interfaces.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Service\bin\Debug\net6.0\GoodCar.Interfaces.pdb
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Service\obj\Debug\net6.0\GoodCar.Service.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Service\obj\Debug\net6.0\GoodCar.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Service\obj\Debug\net6.0\GoodCar.Service.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Service\obj\Debug\net6.0\GoodCar.Service.AssemblyInfo.cs
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Service\obj\Debug\net6.0\GoodCar.Service.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Service\obj\Debug\net6.0\GoodCar.Service.csproj.CopyComplete
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Service\obj\Debug\net6.0\GoodCar.Service.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Service\obj\Debug\net6.0\ref\GoodCar.Service.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Service\obj\Debug\net6.0\GoodCar.Service.pdb

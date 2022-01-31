@@ -1,0 +1,11 @@
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\bin\Debug\net6.0\GoodCar.Interfaces.deps.json
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\bin\Debug\net6.0\GoodCar.Interfaces.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\bin\Debug\net6.0\ref\GoodCar.Interfaces.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\bin\Debug\net6.0\GoodCar.Interfaces.pdb
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\obj\Debug\net6.0\GoodCar.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\obj\Debug\net6.0\GoodCar.Interfaces.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\obj\Debug\net6.0\GoodCar.Interfaces.AssemblyInfo.cs
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\obj\Debug\net6.0\GoodCar.Interfaces.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\obj\Debug\net6.0\GoodCar.Interfaces.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\obj\Debug\net6.0\ref\GoodCar.Interfaces.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\obj\Debug\net6.0\GoodCar.Interfaces.pdb

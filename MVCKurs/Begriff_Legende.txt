@@ -1,0 +1,19 @@
+Das Pattern: 
+Dependency Inversion (Pattern) -> Solid Regel 
+
+Die Verewndung: (Dependency Injection)
+Wir via Konstruktor verwenden:
+- Constructor Injection (global in einer Klasse)
+- Method Injection (oder in einer Methode)
+
+
+Container: IOC (Inversion of Control) 
+- Ist ein Container mit folgender Struktur
+
+zB: 
+	ICarService + CarService 
+	ITimeService + TimeService 
+
+
+
+

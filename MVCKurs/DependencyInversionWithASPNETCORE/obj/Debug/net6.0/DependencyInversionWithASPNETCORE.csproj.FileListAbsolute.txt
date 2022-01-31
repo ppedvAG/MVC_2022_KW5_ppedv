@@ -1,0 +1,14 @@
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\bin\Debug\net6.0\DependencyInversionWithASPNETCORE.exe
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\bin\Debug\net6.0\DependencyInversionWithASPNETCORE.deps.json
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\bin\Debug\net6.0\DependencyInversionWithASPNETCORE.runtimeconfig.json
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\bin\Debug\net6.0\DependencyInversionWithASPNETCORE.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\bin\Debug\net6.0\ref\DependencyInversionWithASPNETCORE.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\bin\Debug\net6.0\DependencyInversionWithASPNETCORE.pdb
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\obj\Debug\net6.0\DependencyInversionWithASPNETCORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\obj\Debug\net6.0\DependencyInversionWithASPNETCORE.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\obj\Debug\net6.0\DependencyInversionWithASPNETCORE.AssemblyInfo.cs
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\obj\Debug\net6.0\DependencyInversionWithASPNETCORE.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\obj\Debug\net6.0\DependencyInversionWithASPNETCORE.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\obj\Debug\net6.0\ref\DependencyInversionWithASPNETCORE.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\obj\Debug\net6.0\DependencyInversionWithASPNETCORE.pdb
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\obj\Debug\net6.0\DependencyInversionWithASPNETCORE.genruntimeconfig.cache

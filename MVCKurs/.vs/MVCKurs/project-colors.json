@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6289f93a-ef3e-432c-b49f-7f5fed35399d": {
+      "ProjectGuid": "6289f93a-ef3e-432c-b49f-7f5fed35399d",
+      "DisplayName": "1_Bad_FesteKopplung",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f951a9f4-f8e9-40ac-961e-d387a34a7416": {
+      "ProjectGuid": "f951a9f4-f8e9-40ac-961e-d387a34a7416",
+      "DisplayName": "GoodCar.Interfaces",
+      "ColorIndex": 1
+    },
+    "a0b00330-83ae-4f11-86cf-4a5a8fd6796b": {
+      "ProjectGuid": "a0b00330-83ae-4f11-86cf-4a5a8fd6796b",
+      "DisplayName": "GoodCar.Entities",
+      "ColorIndex": 2
+    },
+    "91ca8b25-5c5e-4a27-8d33-6b9fe4b93574": {
+      "ProjectGuid": "91ca8b25-5c5e-4a27-8d33-6b9fe4b93574",
+      "DisplayName": "GoodCar.Service",
+      "ColorIndex": 3
+    },
+    "2da5f060-7e02-4a6e-a684-46113c470c6a": {
+      "ProjectGuid": "2da5f060-7e02-4a6e-a684-46113c470c6a",
+      "DisplayName": "GoodCar.App",
+      "ColorIndex": 4
+    },
+    "cbee4f0b-39a7-4819-9bb3-27adf35a9a5b": {
+      "ProjectGuid": "cbee4f0b-39a7-4819-9bb3-27adf35a9a5b",
+      "DisplayName": "2_LoseKopplung Sample",
+      "ColorIndex": 5
+    },
+    "3204cf75-0276-447f-9d3c-15cd7867b72c": {
+      "ProjectGuid": "3204cf75-0276-447f-9d3c-15cd7867b72c",
+      "DisplayName": "DependencyInversionWithASPNETCORE",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

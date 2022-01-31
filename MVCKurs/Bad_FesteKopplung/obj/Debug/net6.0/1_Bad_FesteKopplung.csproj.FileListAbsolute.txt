@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\Bad_FesteKopplung\bin\Debug\net6.0\1_Bad_FesteKopplung.exe
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\Bad_FesteKopplung\bin\Debug\net6.0\1_Bad_FesteKopplung.deps.json
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\Bad_FesteKopplung\bin\Debug\net6.0\1_Bad_FesteKopplung.runtimeconfig.json
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\Bad_FesteKopplung\bin\Debug\net6.0\1_Bad_FesteKopplung.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\Bad_FesteKopplung\bin\Debug\net6.0\ref\1_Bad_FesteKopplung.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\Bad_FesteKopplung\bin\Debug\net6.0\1_Bad_FesteKopplung.pdb
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\Bad_FesteKopplung\obj\Debug\net6.0\1_Bad_FesteKopplung.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\Bad_FesteKopplung\obj\Debug\net6.0\1_Bad_FesteKopplung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\Bad_FesteKopplung\obj\Debug\net6.0\1_Bad_FesteKopplung.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\Bad_FesteKopplung\obj\Debug\net6.0\1_Bad_FesteKopplung.AssemblyInfo.cs
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\Bad_FesteKopplung\obj\Debug\net6.0\1_Bad_FesteKopplung.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\Bad_FesteKopplung\obj\Debug\net6.0\1_Bad_FesteKopplung.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\Bad_FesteKopplung\obj\Debug\net6.0\ref\1_Bad_FesteKopplung.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\Bad_FesteKopplung\obj\Debug\net6.0\1_Bad_FesteKopplung.pdb
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\Bad_FesteKopplung\obj\Debug\net6.0\1_Bad_FesteKopplung.genruntimeconfig.cache
