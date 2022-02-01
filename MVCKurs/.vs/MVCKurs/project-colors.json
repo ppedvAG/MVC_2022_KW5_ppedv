@@ -40,7 +40,32 @@
       "ProjectGuid": "3204cf75-0276-447f-9d3c-15cd7867b72c",
       "DisplayName": "DependencyInversionWithASPNETCORE",
       "ColorIndex": 6
+    },
+    "b25923bc-6499-401b-9195-f65cd996a644": {
+      "ProjectGuid": "b25923bc-6499-401b-9195-f65cd996a644",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 7
+    },
+    "dd77c100-b5b8-4759-997c-f7cf4dc73068": {
+      "ProjectGuid": "dd77c100-b5b8-4759-997c-f7cf4dc73068",
+      "DisplayName": "DIScopeVsTransientVsSingletonSample",
+      "ColorIndex": 8
+    },
+    "6cba30af-97c4-4c67-8d20-5ebaa66f8312": {
+      "ProjectGuid": "6cba30af-97c4-4c67-8d20-5ebaa66f8312",
+      "DisplayName": "MVC_DependencyInjectionSamples",
+      "ColorIndex": 9
+    },
+    "d6029e0a-0dba-4e89-977e-ec032fcae022": {
+      "ProjectGuid": "d6029e0a-0dba-4e89-977e-ec032fcae022",
+      "DisplayName": "KonfigurationSampleApp",
+      "ColorIndex": 10
+    },
+    "7e958be9-7ff2-42a9-be2a-00ef9a416745": {
+      "ProjectGuid": "7e958be9-7ff2-42a9-be2a-00ef9a416745",
+      "DisplayName": "LoggingExampleApp",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 12
 }

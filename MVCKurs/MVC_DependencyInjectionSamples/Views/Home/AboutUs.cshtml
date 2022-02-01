@@ -1,0 +1,9 @@
+﻿@using MVC_DependencyInjectionSamples.Services;
+@inject ITimeService timeservice;
+@{
+    ViewData["Title"] = "AboutUs";
+}
+
+<h1>AboutUs</h1>
+
+@timeservice.GetCurrentTime();

@@ -1,0 +1,5 @@
+2022-02-01 12:12:49.340 +01:00 [INF] Halli Hallo von Index -> Get-Methode
+2022-02-01 12:12:53.396 +01:00 [INF] Halli Hallo von Privacy -> Get-Methode
+2022-02-01 12:12:54.539 +01:00 [INF] Halli Hallo von Index -> Get-Methode
+2022-02-01 12:13:00.759 +01:00 [INF] Halli Hallo von Privacy -> Get-Methode
+2022-02-01 12:13:03.572 +01:00 [INF] Halli Hallo von Index -> Get-Methode

@@ -1,0 +1,18 @@
+﻿@model int[];
+@{
+    ViewData["Title"] = "Home Page";
+}
+<p>Lottozahlen: </p>
+
+@if (Model != null)
+{
+    @for(int i=0; i <  Model.Length; i++)
+    {
+        <p>Zahl @(i+1): @Model[i] </p> 
+    }
+}
+else
+{
+    <p>Die Lottoziehung fällt heute aus.</p>
+}
+

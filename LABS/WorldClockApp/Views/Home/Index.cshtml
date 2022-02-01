@@ -1,0 +1,17 @@
+﻿@model WorldClockResult;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if (Model == null)
+{
+    <p>Ergebnis konnte nicht abgerufen werden</p>
+}
+else
+{
+    <p>Uhrzeit: @Model.datetime</p>
+    <p>Client-IP: @Model.client_ip</p>
+}
+
+
+

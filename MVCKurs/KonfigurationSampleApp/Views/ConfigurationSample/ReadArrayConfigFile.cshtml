@@ -1,0 +1,11 @@
+﻿@model KonfigurationSampleApp.Models.ArrayExample
+@{
+    ViewData["Title"] = "ReadArrayConfigFile";
+}
+
+<h1>ReadArrayConfigFile</h1>
+
+@foreach(string currentStr in Model.Entries)
+{
+    <p>@currentStr</p>
+}

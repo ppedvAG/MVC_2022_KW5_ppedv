@@ -5,10 +5,13 @@ Montag / Dienstag
 - [x] Dependency Injection / Seperation of Concerne (3 Stunden) 
 - [ ] Startup-Klasse mit .NET 6 vergleichen 
 - [x] IServiceCollection / ServiceProvide
-- [ ] Singleton / Scoped / Transient 
+- [x] Singleton / Scoped / Transient 
+- [x] Injection-Varianten
 
-- [ ] Konfigurationen einlesen -> Dependency Injcetion + Konfigurationen
-- [ ] Logging 
+- [x] Konfigurationen einlesen -> Dependency Injcetion + Konfigurationen
+- [x] Logging 
+
+
 - [ ] MVC-Default Project
 - [ ] Präsentationsschicht (1 Stunde) 
 - [ ] Razor-Syntax / RazorEngine 

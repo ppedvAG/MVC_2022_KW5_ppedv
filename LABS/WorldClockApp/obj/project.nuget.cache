@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ipba4AbpZepb846nR4OwNxIfBfR0GQITfl9eVVY7Xv7IkCv0Q0pZhqP6z9P6L6S1oS+5krROIAqfYANjcKRLjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\LABS\\WorldClockApp\\WorldClockApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

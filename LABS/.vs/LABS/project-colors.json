@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7966c937-31ee-4a0c-bc46-d48ea3076c51": {
+      "ProjectGuid": "7966c937-31ee-4a0c-bc46-d48ea3076c51",
+      "DisplayName": "TimeServiceLab",
+      "ColorIndex": 0
+    },
+    "961a16ef-bfc3-4177-8436-b12190b6a802": {
+      "ProjectGuid": "961a16ef-bfc3-4177-8436-b12190b6a802",
+      "DisplayName": "WorldClockLAB",
+      "ColorIndex": 1
+    },
+    "63e6f98a-328d-42b4-a78d-dd8225d8f65b": {
+      "ProjectGuid": "63e6f98a-328d-42b4-a78d-dd8225d8f65b",
+      "DisplayName": "WorldClockApp",
+      "ColorIndex": 2
+    },
+    "0ff24140-3834-4671-a825-227e3f610ca7": {
+      "ProjectGuid": "0ff24140-3834-4671-a825-227e3f610ca7",
+      "DisplayName": "LottoServiceApp",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
