@@ -12,11 +12,11 @@ Montag / Dienstag
 - [x] Logging 
 
 
-- [ ] MVC-Default Project
-- [ ] Präsentationsschicht (1 Stunde) 
-- [ ] Razor-Syntax / RazorEngine 
-- [ ] Bootstrap
-- [ ] MVC mit ViewModels
+- [x] MVC-Default Project
+- [x] Präsentationsschicht (1 Stunde) 
+- [x] Razor-Syntax / RazorEngine 
+- [0] Bootstrap
+- [x] MVC mit ViewModels
 
 
 

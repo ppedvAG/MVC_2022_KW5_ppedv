@@ -1,4 +1,5 @@
 ﻿using KonfigurationSampleApp.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -13,10 +14,12 @@ namespace KonfigurationSampleApp.Controllers
             _logger = logger;
         }
 
+
         public IActionResult Index()
         {
             return View();
         }
+
 
         public IActionResult Privacy()
         {

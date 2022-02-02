@@ -1,0 +1,44 @@
+﻿@using MVCAndRazorSamples.ViewModels
+@model MovieViewModel
+@{
+    ViewData["Title"] = "GenerateTableWithViewModel";
+}
+
+
+
+<p>@Model.Movie.Title</p>
+<p>@Model.Movie.Description</p>
+<p>@Model.Movie.Price</p>
+<p>@Model.ExterneIMDBRating</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model=>model.Cast[0].Id)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model=>model.Cast[0].FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model=>model.Cast.First().LastName)
+            </th>
+        </tr>
+    </thead>
+    <tbod>
+        @foreach(Artists currentArtist in Model.Cast)
+        {
+             <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => currentArtist.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => currentArtist.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => currentArtist.LastName)
+                </td>
+            </tr>
+        }
+    </tbod>
+</table>

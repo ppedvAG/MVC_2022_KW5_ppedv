@@ -1,0 +1,221 @@
+﻿
+@model IEnumerable<Person>
+@{
+    ViewData["Title"] = "RazorSamplesOverview";
+}
+
+<h1>RazorSamplesOverview</h1>
+
+<p>Was ist Razor?</p>
+<p>Ist ein TemplateSystem + Möglichkeiten, wie man Objecte in HTML am besten verwenden kann</p>
+
+<p>Was ist ein Template-System in HTML?</p>
+<p>Ein Templatesystem ermöglicht in HTML, Objekte via Platzhalter auszugeben und auch Formulare mit Objekte </p>
+
+<p>Anzahl der Personen @Model.Count()</p>
+<p>Ein [AT]-Zeichen wird hier ausgeben -> @@Model.Count</p>
+
+<p>@DateTime.Now.ToString()</p>
+<p>Ist das Jahr 2016 ein Schaltjahr: @DateTime.IsLeapYear(2016)</p>
+
+
+<p>C# Inline Code-Block</p>
+<p>Last week this time: @(DateTime.Now - TimeSpan.FromDays(7) )</p>
+
+
+<p>multiline Code-Block</p>
+@{
+    //lokale Variablen und gelten nur auf dieser Razor Seite
+    Person person  = new Person("Grimm", 50);
+    Person person1 = new("Rapunzel", 33);
+}
+
+@{
+    person.Name = "Donald Duck";
+}
+
+<p>Namen: @person.Name</p>
+<p>Alter: @person.Age</p>
+
+
+@Html.Raw("<b>Hello World </b>")
+@* &lt;span&gt;Hello World&lt;/span&gt; *@
+
+
+@*// Razor Page spezifische Möglichkeit eine Methode in der Code-Behind Datei zu erweitern*@
+@*@functions {
+    //ERweiterung der Code-Behind Datei
+    public string GenericMethod<T>()
+    {
+        return "a type";
+    }
+}*@
+
+
+
+
+@{
+    void RenderName(string name)
+    {
+        <p>Name: <strong>@name</strong></p>
+    }
+
+    RenderName("Mahatma Gandhi");
+    RenderName("MartinLuther King, Jr.");
+}
+
+@*@(RenderName("Martin Luther"));*@
+
+@{
+    RenderName("Martin Luther");
+}
+
+
+@* 7.0 Steuerungsstrukturen *@
+@foreach (Person currentPerson in Model)
+{
+    @currentPerson.Name
+    <br />
+    @currentPerson.Age 
+    <br />
+    <p>--------------------------------</p>
+}
+
+@{
+    Person[] peoples = Model.ToArray();
+    
+    
+
+    for(int x = 0; x < peoples.Length; x++)
+    {
+        Person person2 = peoples[x];
+
+        <p>@person.Name</p>
+        <br />
+        @person2.Age 
+        <br />
+        <p>--------------------------------</p>
+    }
+}
+
+
+@* 7.2.3 @while *@
+@{var i = 0; }
+@while (i < peoples.Length)
+{
+    var person3 = peoples[i];
+    <p>Name: @person3.Name</p>
+    <p>Age: @person3.Age</p>
+
+    i++;
+}
+
+@* 7.2.4 @do while *@
+
+@{i = 0; }
+@do
+{
+    var person4 = peoples[i];
+    <p>Name: @person4.Name</p>
+    <p>Age: @person4.Age</p>
+
+    i++;
+} while (i < peoples.Length);
+
+
+@{
+    int value = 4;
+}
+
+
+
+@if (value % 2 == 0)
+{
+    <p>The value was even.</p>
+}
+
+@{
+    string color = DateTime.Now.Year == 2022 ? "blue" : "red";
+
+    //Mit inline if kann man CSS Rules -> <div style="..."> manipulieren oder setzen 
+}
+
+@* 7.1.2 else und else if erfordern kein @-Symbol: *@
+@if (value % 2 == 0)
+{
+    <p>The value was even.</p>
+}
+else if (value >= 1337)
+{
+    <p>The value is large.</p>
+}
+else
+{
+    <p>The value is odd and small.</p>
+}
+
+
+@*  7.1.3 switch-Anweisung *@
+@switch (value)
+{
+    case 1:
+        <p>The value is 1!</p>
+        break;
+    case 1337:
+        <p>Your number is 1337!</p>
+        break;
+    default:
+        <p>Your number wasn't 1 or 1337.</p>
+        break;
+}
+
+
+<!-- Formular -->
+@using (Html.BeginForm())
+{
+    <div>
+        Email: <input type="email" id="Email" value="">
+        <button>Register</button>
+    </div>
+} //Dispose
+
+<form>
+</form>
+
+@* 7.4 @try, catch, finally
+
+*@
+@try
+{
+    throw new InvalidOperationException("You did something invalid.");
+}
+catch (Exception ex)
+{
+    <p>The exception message: @ex.Message</p>
+}
+finally
+{
+    <p>The finally statement.</p>
+}
+
+@* 7.5 @lock *@
+@*@lock (obj)
+{
+    // Do critical section work
+}*@
+
+@inject ITimeService service;
+
+@service.CurrentTime();
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            alert("Test");
+        });
+    </script>
+
+
+     @*<script type="text/javascript" src="~/scripts/site.js"></script>*@
+}

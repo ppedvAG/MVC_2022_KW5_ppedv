@@ -12,6 +12,7 @@ builder.Services.PostConfigure<PositionOptions>(myOptions =>
     myOptions.Title = "Dr.";
 });
 
+builder.Services.AddAuthentication();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -26,6 +27,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
 
 app.UseAuthorization();
 
