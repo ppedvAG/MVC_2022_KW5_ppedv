@@ -1,0 +1,26 @@
+﻿@model IEnumerable<MVCAndRazorSamples.Models.Movie>
+
+@{
+    Movie movieWithTheLowestPrice = null;
+
+
+    if (Model.Any())
+    {
+        movieWithTheLowestPrice = Model.OrderBy(s => s.Price).First();
+    }
+}
+
+@if (movieWithTheLowestPrice != null)
+{
+    <p>Sonderangebot</p>
+    <div class="card">
+        <div class="card-body">
+            <p>@movieWithTheLowestPrice.Title</p>
+            <p>@movieWithTheLowestPrice.Price</p>
+        </div>
+    </div>
+}
+else
+{
+
+}

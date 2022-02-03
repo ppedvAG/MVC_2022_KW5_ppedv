@@ -65,5 +65,11 @@ namespace MVCAndRazorSamples.Controllers
 
             return View(vm);
         }
+
+
+        public IActionResult ShowPartialViewSample()
+        {
+            return View();
+        }
     }
 }

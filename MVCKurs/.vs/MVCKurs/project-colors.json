@@ -65,7 +65,22 @@
       "ProjectGuid": "7e958be9-7ff2-42a9-be2a-00ef9a416745",
       "DisplayName": "LoggingExampleApp",
       "ColorIndex": 11
+    },
+    "49e1a887-2045-4987-bea2-91cc9ac35ed9": {
+      "ProjectGuid": "49e1a887-2045-4987-bea2-91cc9ac35ed9",
+      "DisplayName": "DefaultMVCNET5",
+      "ColorIndex": 12
+    },
+    "ab54ffa7-c349-44cd-8506-55cf9dabb76c": {
+      "ProjectGuid": "ab54ffa7-c349-44cd-8506-55cf9dabb76c",
+      "DisplayName": "DefaultMVCNET6",
+      "ColorIndex": 13
+    },
+    "293b62f5-f6d6-45d7-9a32-575fe50c84f6": {
+      "ProjectGuid": "293b62f5-f6d6-45d7-9a32-575fe50c84f6",
+      "DisplayName": "MVCAndRazorSamples",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 15
 }

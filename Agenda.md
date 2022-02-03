@@ -22,22 +22,22 @@ Montag / Dienstag
 
 Mittwoch / Donnerstag
 Die Controller-Klasse (MVC)
-- [ ] Überblick über HTTPContext und Controller-Basisklasse
-- [ ] Was ist GET und POST -Methoden
-- [ ] QueryString bei Get-Methoden
-- [ ] Ein Formular mit mehren Buttons (Post-Methoden)
-- [ ] Data Annotations 
-- [ ] Validierung (clientseitig und serverseitig)
-- [ ] Gehen Geldbeträge mit Komma?
+- [x] Überblick über HTTPContext und Controller-Basisklasse
+- [x] Was ist GET und POST -Methoden
+- [x] QueryString bei Get-Methoden
+- [x] Ein Formular mit mehren Buttons (Post-Methoden)
+- [x] Data Annotations 
+- [x] Validierung (clientseitig und serverseitig)
+- [x] Gehen Geldbeträge mit Komma?
 
-- [ ] EF Core Einstieg (flexibel)
+- [x] EF Core Einstieg (flexibel)
   - [ ] Code First / Code First Reverse
-  - [ ] Repository / UnitOfWork Pattern in EF
+  - [x] Repository / UnitOfWork Pattern in EF
   - [ ] Add-Migration + Update-Database im Bezug auf eine DBContext 
 
 
 
-- [ ] PartialView
+- [x] PartialView
   - [ ] PartialView with jQuery - Ajax Call
 - [ ] HTML-Helper
 - [ ] TagHelpers

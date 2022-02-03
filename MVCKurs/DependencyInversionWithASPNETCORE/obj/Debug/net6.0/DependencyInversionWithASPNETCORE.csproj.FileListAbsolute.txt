@@ -12,3 +12,13 @@ C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\o
 C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\obj\Debug\net6.0\ref\DependencyInversionWithASPNETCORE.dll
 C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\obj\Debug\net6.0\DependencyInversionWithASPNETCORE.pdb
 C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\obj\Debug\net6.0\DependencyInversionWithASPNETCORE.genruntimeconfig.cache
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\bin\Debug\net6.0\GoodCar.Entities.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\bin\Debug\net6.0\GoodCar.Interfaces.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\bin\Debug\net6.0\GoodCar.Service.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\bin\Debug\net6.0\GoodCar.Entities.pdb
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\bin\Debug\net6.0\GoodCar.Service.pdb
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\bin\Debug\net6.0\GoodCar.Interfaces.pdb
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\obj\Debug\net6.0\DependencyInversionWithASPNETCORE.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\DependencyInversionWithASPNETCORE\obj\Debug\net6.0\DependencyInversionWithASPNETCORE.csproj.CopyComplete

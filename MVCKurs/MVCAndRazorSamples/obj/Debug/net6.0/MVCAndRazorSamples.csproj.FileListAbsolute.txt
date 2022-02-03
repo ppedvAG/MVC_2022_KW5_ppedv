@@ -229,3 +229,10 @@ C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\MVCAndRazorSamples\obj\Debug\net6.0
 C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\MVCAndRazorSamples\obj\Debug\net6.0\ref\MVCAndRazorSamples.dll
 C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\MVCAndRazorSamples\obj\Debug\net6.0\MVCAndRazorSamples.pdb
 C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\MVCAndRazorSamples\obj\Debug\net6.0\MVCAndRazorSamples.genruntimeconfig.cache
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\MVCAndRazorSamples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\MVCAndRazorSamples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\MVCAndRazorSamples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\MVCAndRazorSamples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\MVCAndRazorSamples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\MVCAndRazorSamples\obj\Debug\net6.0\MVCAndRazorSamples.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\MVCAndRazorSamples\bin\Debug\net6.0\libman.json

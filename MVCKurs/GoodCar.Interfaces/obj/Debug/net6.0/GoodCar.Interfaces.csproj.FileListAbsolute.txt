@@ -9,3 +9,4 @@ C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\obj\Debug\net6.0
 C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\obj\Debug\net6.0\GoodCar.Interfaces.dll
 C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\obj\Debug\net6.0\ref\GoodCar.Interfaces.dll
 C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\obj\Debug\net6.0\GoodCar.Interfaces.pdb
+C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\GoodCar.Interfaces\obj\Debug\net6.0\GoodCar.Interfaces.csproj.AssemblyReference.cache

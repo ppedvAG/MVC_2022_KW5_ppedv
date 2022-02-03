@@ -23,6 +23,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Movie/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Movie/Create_Custom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQ3JlYXRlX0N1c3RvbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Movie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/GenerateTableWithModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JTYW1wbGVzXEdlbmVyYXRlVGFibGVXaXRoTW9kZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -35,8 +47,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JTYW1wbGVzXFJhem9yU2FtcGxlc092ZXJ2aWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/ShowPartialViewSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JTYW1wbGVzXFNob3dQYXJ0aWFsVmlld1NhbXBsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/_DateTimePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYXRlVGltZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/_SpecialOfferPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TcGVjaWFsT2ZmZXJQYXJ0aWFsVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/_ValidationScriptsPartial.cshtml]

@@ -1,0 +1,78 @@
+﻿@model IEnumerable<MVCAndRazorSamples.Models.Movie>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    string searchQuery = string.Empty;
+
+    if (ViewData["FilterQuery"] != null)
+    {
+        searchQuery = ViewData["FilterQuery"].ToString();
+    }
+   
+
+}
+
+<h1>Movie Store</h1>
+
+<partial name="_SpecialOfferPartialView" />
+
+<form asp-controller="Movie" asp-action="Index" method="get">
+    <p>Suchbegriff: <input type="text" name="filter" value='@searchQuery' /> </p>
+    <input type="submit" value="filtern" />
+</form>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+
+<form asp-controller="Movie" method="post">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Genre)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+    @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genre)
+                </td>
+                <td>
+                    <!-- a-tag steuern Get-MEthoden an-->
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Buy" asp-route-id="@item.Id">Buy</a>
+
+                    <!-- können Post-Methoden ansteuern -->
+                    <button asp-controller="Movie" type="submit" asp-action="Buy" asp-route-id="@item.Id">Buy1</button>
+                </td>
+            </tr>
+    }
+        </tbody>
+    </table>
+</form>
