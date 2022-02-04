@@ -1,0 +1,4 @@
+﻿Add-Migration InitVersion -context GeoRelationSample.Data.GeoDbContext      -> erstellt das Migrations-Verzeichnis 
+
+
+Update-Database -context GeoRelationSample.Data.GeoDbContext

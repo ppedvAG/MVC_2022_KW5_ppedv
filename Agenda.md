@@ -41,22 +41,19 @@ Die Controller-Klasse (MVC)
   - [ ] PartialView with jQuery - Ajax Call
 - [ ] HTML-Helper
 - [ ] TagHelpers
-- [ ] ViewComponents -> siehe Freitag
-
-
+- [ ] ViewComponents & Localization -> Referenz Projekte anschauen
 
 Freitag 
 - [ ] Übung Gästebuch (GET/POST) + EFCore(Model erstellen, DbContext-Klasse, Rollout auf DB)
 
 State-Management
+- [x] Session-Handling -> Bauen einen Warenkorb (mit Artikel entfernen)
 - [ ] ViewData
 - [ ] ViewBag
 - [ ] TempData
-- [ ] Session-Handling -> Bauen einen Warenkorb (mit Artikel entfernen)
-- [ ] Identity UI in ASP.NET Core MVC -> weitere UseCases zu PartialView
+- [x] Identity UI in ASP.NET Core MVC -> weitere UseCases zu PartialView
+- [ ] Tabelle Sortierung, Pagging, Filtern direkt mit EFCore (anderes Movie-Projekt mit unterschied, dass die Tabelle mehr Features hat)
 
-- [ ] Tabelle Sortierung, Pagging, Filtern direkt mit EFCore 
-- [ ] ViewComponents & Localization -> Referenz Projekte anschauen
 
 - Routing
 - [ ] Konventionelles Routing

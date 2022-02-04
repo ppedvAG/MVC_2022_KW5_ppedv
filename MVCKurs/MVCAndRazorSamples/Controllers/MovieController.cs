@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MVCAndRazorSamples.Data;
 using MVCAndRazorSamples.Models;
+using System.Text.Json;
 
 namespace MVCAndRazorSamples.Controllers;
 
@@ -66,14 +67,34 @@ public class MovieController : Controller
     //}
 
     [HttpPost]
+    //Warenkorb Befüllung 
     public IActionResult Buy(int? id)
     {
         if (!id.HasValue)
             return BadRequest(); //404 wird ausgegen
 
-        //Warenkorb Befüllung 
+        //Gibt es eine Session Funktionalität
+        if (HttpContext.Session.IsAvailable)
+        {
+            IList<int> idList = new List<int>();
 
-        return RedirectToAction("Index");
+            if (HttpContext.Session.Keys.Contains("ShoppingCart"))
+            {
+                string jsonIdList = HttpContext.Session.GetString("ShoppingCart");
+
+                idList = JsonSerializer.Deserialize<List<int>>(jsonIdList);
+            }
+
+            idList.Add(id.Value);
+
+            string jsonString = JsonSerializer.Serialize(idList);
+
+            HttpContext.Session.SetString("ShoppingCart", jsonString);
+
+        }
+
+        //return RedirectToAction("Index");
+        return RedirectToAction(nameof(Index));
     }
 
 

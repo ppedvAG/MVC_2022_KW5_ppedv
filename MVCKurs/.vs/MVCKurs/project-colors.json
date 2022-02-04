@@ -80,7 +80,12 @@
       "ProjectGuid": "293b62f5-f6d6-45d7-9a32-575fe50c84f6",
       "DisplayName": "MVCAndRazorSamples",
       "ColorIndex": 14
+    },
+    "f94aad4c-e247-4fff-85aa-ea22b9e3b9a0": {
+      "ProjectGuid": "f94aad4c-e247-4fff-85aa-ea22b9e3b9a0",
+      "DisplayName": "GeoRelationSample",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 0
 }

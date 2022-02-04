@@ -3,7 +3,6 @@
 @{
     Movie movieWithTheLowestPrice = null;
 
-
     if (Model.Any())
     {
         movieWithTheLowestPrice = Model.OrderBy(s => s.Price).First();

@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "TempDataSecondSample";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    //string email = TempData["EmailAdress"].ToString();
+    int id = Convert.ToInt32(TempData["id"]);
+}
+
+<h1>TempDataSecondSample</h1>
+
+@*@email*@
+@id
+
+@TempData.Peek("EmailAdress").ToString();

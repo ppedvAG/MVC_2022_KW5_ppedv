@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "ViewDataSample";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    string output = ViewData["def"].ToString();
+}
+
+<h1>ViewDataSample</h1>
+
+@ViewData["abc"].ToString();
+
+@output
+
