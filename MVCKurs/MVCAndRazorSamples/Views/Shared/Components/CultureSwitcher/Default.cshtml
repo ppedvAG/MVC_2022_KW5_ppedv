@@ -1,0 +1,20 @@
+﻿@model MVCAndRazorSamples.Models.CultureSwitcherModel
+
+<div>
+    <form id="culture-switcher">
+        <select name="culture" id="culture-options">
+            <option></option>
+            @foreach(var cultureInfo in Model.SupportedCultures)
+            {
+                <option value="@cultureInfo.Name" selected="@(Model.CurrentUICulture.Name == cultureInfo.Name)">@cultureInfo.DisplayName</option>
+            }
+        </select>
+    </form>
+</div>
+
+<script>
+    document.getElementById("culture-options").addEventListener("change", () => {
+        document.getElementById("culture-switcher").submit();
+    });
+</script>
+

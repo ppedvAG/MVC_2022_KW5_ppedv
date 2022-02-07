@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "UploadPictureSample";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>UploadPictureSample</h1>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<form enctype="multipart/form-data" asp-action="UploadPictureSample">
+    <input type="file" name="datei" dirname="C:\" />
+    <input type="submit" value="Upload" />
+</form>

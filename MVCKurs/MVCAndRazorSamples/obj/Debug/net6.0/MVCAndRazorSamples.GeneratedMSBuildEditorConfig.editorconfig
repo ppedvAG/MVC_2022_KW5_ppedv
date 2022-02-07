@@ -175,6 +175,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Controllers/sorting_filterin_pagging/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnNcc29ydGluZ19maWx0ZXJpbl9wYWdnaW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/FilterSample/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsdGVyU2FtcGxlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/FilterSample/Read.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsdGVyU2FtcGxlXFJlYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -195,6 +207,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Photo/FormattedPictureGallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9cRm9ybWF0dGVkUGljdHVyZUdhbGxlcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Photo/PictureGallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9cUGljdHVyZUdhbGxlcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Photo/UploadPictureSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9cVXBsb2FkUGljdHVyZVNhbXBsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/GenerateTableWithModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JTYW1wbGVzXEdlbmVyYXRlVGFibGVXaXRoTW9kZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -207,8 +231,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JTYW1wbGVzXFJhem9yU2FtcGxlc092ZXJ2aWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/ShowCustomizeASPTagHelperSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JTYW1wbGVzXFNob3dDdXN0b21pemVBU1BUYWdIZWxwZXJTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/ShowCustomizeHTMLHelperSample1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JTYW1wbGVzXFNob3dDdXN0b21pemVIVE1MSGVscGVyU2FtcGxlMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/ShowPartialViewSample.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JTYW1wbGVzXFNob3dQYXJ0aWFsVmlld1NhbXBsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/Components/CultureSwitcher/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ3VsdHVyZVN3aXRjaGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/Error.cshtml]

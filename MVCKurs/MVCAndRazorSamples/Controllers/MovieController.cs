@@ -17,6 +17,7 @@ public class MovieController : Controller
     }
 
     //GET - Methode
+
     public IActionResult Index(string filter)
     {
         if(!string.IsNullOrEmpty(filter))
@@ -30,13 +31,13 @@ public class MovieController : Controller
     }
 
     //Get-Methode -> Anzeigen eines Leeren Formulares ohne Daten
-    [HttpGet]
+    [HttpGet("/movie/create")]
     public IActionResult Create()
     {
         return View();
     }
 
-    [HttpPost]
+    [HttpPost("/movie/create")]
     [ValidateAntiForgeryToken]
     public IActionResult Create(Movie movie)
     {
@@ -66,7 +67,7 @@ public class MovieController : Controller
     //    return PartialView()
     //}
 
-    [HttpPost]
+    [HttpPost("/movie/Buy/{id}")]
     //Warenkorb Befüllung 
     public IActionResult Buy(int? id)
     {

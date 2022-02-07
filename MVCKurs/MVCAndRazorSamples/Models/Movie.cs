@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace MVCAndRazorSamples.Models
 {
@@ -25,6 +26,8 @@ namespace MVCAndRazorSamples.Models
     public class Artists
     {
         public int Id { get; set; }
+
+        [DisplayName("First Name")]
         public string FirstName { get; set; } = default!;
         public string LastName { get; set; } = default!;
     }

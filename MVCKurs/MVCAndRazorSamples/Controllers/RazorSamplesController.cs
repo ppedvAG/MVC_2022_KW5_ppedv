@@ -71,5 +71,16 @@ namespace MVCAndRazorSamples.Controllers
         {
             return View();
         }
+
+
+        public IActionResult  ShowCustomizeHTMLHelperSample1()
+        {
+            return View();
+        }
+
+        public IActionResult ShowCustomizeASPTagHelperSample()
+        {
+            return View();
+        }
     }
 }

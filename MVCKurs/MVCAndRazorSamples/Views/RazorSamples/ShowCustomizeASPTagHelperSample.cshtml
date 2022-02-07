@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "ShowCustomizeASPTagHelperSample";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+
+
+    WebsiteContext websiteContext = new ();
+    websiteContext.Version = new Version("1.2");
+    websiteContext.Approved = true;
+    websiteContext.CopyrightYear = 2022;
+    websiteContext.TagsToShow = 2;
+
+}
+
+<h1>ShowCustomizeASPTagHelperSample</h1>
+
+
+<website-information info=websiteContext />
+
+
