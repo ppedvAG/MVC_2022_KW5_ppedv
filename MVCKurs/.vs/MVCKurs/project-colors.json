@@ -85,7 +85,17 @@
       "ProjectGuid": "f94aad4c-e247-4fff-85aa-ea22b9e3b9a0",
       "DisplayName": "GeoRelationSample",
       "ColorIndex": 15
+    },
+    "79eba719-b3f1-4552-a930-719502735fe8": {
+      "ProjectGuid": "79eba719-b3f1-4552-a930-719502735fe8",
+      "DisplayName": "HelloSerialization",
+      "ColorIndex": 0
+    },
+    "cf280346-140d-4b8c-9fcb-deae0bd21489": {
+      "ProjectGuid": "cf280346-140d-4b8c-9fcb-deae0bd21489",
+      "DisplayName": "FileUpDownloadAPI",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 2
 }
