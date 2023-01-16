@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3cAXw29vODk7uM9YoL/L6lcHtSXRGLCC0g0KGsE4HQUZgf7AytYL54/8kY/doUvQEn/lCaWYkjGvoN/kAzDGug==",
+  "dgSpecHash": "Ulj6O87Nzcysq+KXHelMkhxqqO7x33DRB7XZYHZ57pUt/FB+celVJ62NcOb2GcPyzr3uhT4q3VII0LRs2nuAOg==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\HelloSerialization\\HelloSerialization.csproj",
+  "projectFilePath": "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\HelloSerialization\\HelloSerialization.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

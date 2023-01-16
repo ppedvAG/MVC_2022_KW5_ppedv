@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lTJMwwEIjXSO4r6Cj97kSSagT7foEJ6ZHBkNmO0E04RQiwSNydxNDDPXd7hKeK9x+Srj9RxLRQYkwhKZeOZa9g==",
+  "dgSpecHash": "iQnxffOookL7VR9DaYxna0cRlnnkYVd3vKh+Njg6ZCM6G+3wwBwVyKAubAQB5kRd1ootfPcghKJlWrIH/0hBbg==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\GeoRelationSample\\GeoRelationSample.csproj",
+  "projectFilePath": "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\GeoRelationSample\\GeoRelationSample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kw4\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\kw4\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

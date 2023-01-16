@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\HelloSerialization\\HelloSerialization.csproj": {}
+    "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\HelloSerialization\\HelloSerialization.csproj": {}
   },
   "projects": {
-    "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\HelloSerialization\\HelloSerialization.csproj": {
+    "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\HelloSerialization\\HelloSerialization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\HelloSerialization\\HelloSerialization.csproj",
+        "projectUniqueName": "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\HelloSerialization\\HelloSerialization.csproj",
         "projectName": "HelloSerialization",
-        "projectPath": "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\HelloSerialization\\HelloSerialization.csproj",
+        "projectPath": "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\HelloSerialization\\HelloSerialization.csproj",
         "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\HelloSerialization\\obj\\",
+        "outputPath": "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\HelloSerialization\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -27,6 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,22 +57,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.12, 5.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

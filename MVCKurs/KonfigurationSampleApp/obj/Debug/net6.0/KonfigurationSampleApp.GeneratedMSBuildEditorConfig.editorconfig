@@ -5,56 +5,57 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KonfigurationSampleApp
 build_property.RootNamespace = KonfigurationSampleApp
-build_property.ProjectDir = C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\KonfigurationSampleApp\
+build_property.ProjectDir = C:\gehaltene Kurse\MVC_2022_KW5_ppedv\MVCKurs\KonfigurationSampleApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\KonfigurationSampleApp
+build_property.MSBuildProjectDirectory = C:\gehaltene Kurse\MVC_2022_KW5_ppedv\MVCKurs\KonfigurationSampleApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/ConfigurationSample/ReadArrayConfigFile.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/ConfigurationSample/ReadArrayConfigFile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlndXJhdGlvblNhbXBsZVxSZWFkQXJyYXlDb25maWdGaWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/ConfigurationSample/ReadWithPositionOptions.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/ConfigurationSample/ReadWithPositionOptions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlndXJhdGlvblNhbXBsZVxSZWFkV2l0aFBvc2l0aW9uT3B0aW9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/ConfigurationSample/ReadWithPositionOptionsAsOptionPattern.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/ConfigurationSample/ReadWithPositionOptionsAsOptionPattern.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlndXJhdGlvblNhbXBsZVxSZWFkV2l0aFBvc2l0aW9uT3B0aW9uc0FzT3B0aW9uUGF0dGVybi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/ConfigurationSample/ShowPostConfiguration.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/ConfigurationSample/ShowPostConfiguration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlndXJhdGlvblNhbXBsZVxTaG93UG9zdENvbmZpZ3VyYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/Home/Index.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/Home/Privacy.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/Shared/Error.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/_ViewImports.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/_ViewStart.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/Shared/_Layout.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/KonfigurationSampleApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6fyqio2vpb

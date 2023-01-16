@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Txn9FIWXFjyRqfe4MZhd5desGTg7nY9hTYzFNmfqkbI43hGZZ9eAztQTkYkvwLHWSxNBFKrFsPYkLmJcPlJigg==",
+  "dgSpecHash": "i0FgZX8mlBSNweojDAMV4CeVudesPI8EJiZLx6ruxEpQCe94TfN1gPkrZMtOJmabHrjKyLYEuZxbA7Xj6BLUtg==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\LoggingExampleApp\\LoggingExampleApp.csproj",
+  "projectFilePath": "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\LoggingExampleApp\\LoggingExampleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.0.4\\microsoft.dotnet.platformabstractions.2.0.4.nupkg.sha512",

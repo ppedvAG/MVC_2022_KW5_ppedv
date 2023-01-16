@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mV3naS73YYz+jLv3ZTl1aItzbQvVMYVFTTPi09xSHFhCgEYap9PNv6TA5dXqHFGtSo2pP+JOvoH+fbzLzhd4pw==",
+  "dgSpecHash": "w0s30ENV+xr2tO2PnBUCImpl7wGYldKQx4W8L+MZFcR8yUQPlJ9bcIkJqKDeQsUVE1Q5N7SKc0RPPrTvbXuOfQ==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\MVC_DependencyInjectionSamples\\MVC_DependencyInjectionSamples.csproj",
+  "projectFilePath": "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\MVC_DependencyInjectionSamples\\MVC_DependencyInjectionSamples.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kw4\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\kw4\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

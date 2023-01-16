@@ -9,10 +9,14 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         },
         "compile": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -21,10 +25,14 @@
       "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -33,10 +41,14 @@
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -187,11 +199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\DependencyInversionWithASPNETCORE\\DependencyInversionWithASPNETCORE.csproj",
+      "projectUniqueName": "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\DependencyInversionWithASPNETCORE\\DependencyInversionWithASPNETCORE.csproj",
       "projectName": "DependencyInversionWithASPNETCORE",
-      "projectPath": "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\DependencyInversionWithASPNETCORE\\DependencyInversionWithASPNETCORE.csproj",
+      "projectPath": "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\DependencyInversionWithASPNETCORE\\DependencyInversionWithASPNETCORE.csproj",
       "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
-      "outputPath": "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\DependencyInversionWithASPNETCORE\\obj\\",
+      "outputPath": "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\DependencyInversionWithASPNETCORE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -207,17 +219,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\GoodCar.Entities\\GoodCar.Entities.csproj": {
-              "projectPath": "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\GoodCar.Entities\\GoodCar.Entities.csproj"
+            "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\GoodCar.Entities\\GoodCar.Entities.csproj": {
+              "projectPath": "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\GoodCar.Entities\\GoodCar.Entities.csproj"
             },
-            "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\GoodCar.Service\\GoodCar.Service.csproj": {
-              "projectPath": "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\GoodCar.Service\\GoodCar.Service.csproj"
+            "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\GoodCar.Service\\GoodCar.Service.csproj": {
+              "projectPath": "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\GoodCar.Service\\GoodCar.Service.csproj"
             }
           }
         }
@@ -243,7 +256,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -252,7 +266,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

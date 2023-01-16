@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xUz0aiu3A44/HYm+iRmMrXqKiIcPGqn/WcRaS3GoMBbEY6TmRbCZbfIy7/NVQB944u53TLACCBU5j//R2EhvXA==",
+  "dgSpecHash": "PVFSjZWPTZ2kh9OLyVkH+LNJ4qqkwm46bGiwpPDk70n29Zw8bmXfqr72BbaBl/uPxPg3//nRqNwm/Or3BYKQRA==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\DependencyInversionWithASPNETCORE\\DependencyInversionWithASPNETCORE.csproj",
+  "projectFilePath": "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\DependencyInversionWithASPNETCORE\\DependencyInversionWithASPNETCORE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

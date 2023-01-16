@@ -5,304 +5,305 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVCAndRazorSamples
 build_property.RootNamespace = MVCAndRazorSamples
-build_property.ProjectDir = C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\MVCAndRazorSamples\
+build_property.ProjectDir = C:\gehaltene Kurse\MVC_2022_KW5_ppedv\MVCKurs\MVCAndRazorSamples\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Aktueller Kurs\MVC_2022_KW5_ppedv\MVCKurs\MVCAndRazorSamples
+build_property.MSBuildProjectDirectory = C:\gehaltene Kurse\MVC_2022_KW5_ppedv\MVCKurs\MVCAndRazorSamples
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Lockout.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Lockout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Error.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Controllers/sorting_filterin_pagging/Index.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Controllers/sorting_filterin_pagging/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnNcc29ydGluZ19maWx0ZXJpbl9wYWdnaW5nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/FilterSample/Edit.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/FilterSample/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsdGVyU2FtcGxlXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/FilterSample/Read.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/FilterSample/Read.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsdGVyU2FtcGxlXFJlYWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Home/Index.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Home/Privacy.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Movie/Create.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Movie/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Movie/Create_Custom.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Movie/Create_Custom.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQ3JlYXRlX0N1c3RvbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Movie/Index.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Movie/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Photo/FormattedPictureGallery.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Photo/FormattedPictureGallery.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9cRm9ybWF0dGVkUGljdHVyZUdhbGxlcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Photo/PictureGallery.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Photo/PictureGallery.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9cUGljdHVyZUdhbGxlcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Photo/UploadPictureSample.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Photo/UploadPictureSample.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9cVXBsb2FkUGljdHVyZVNhbXBsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/GenerateTableWithModel.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/GenerateTableWithModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JTYW1wbGVzXEdlbmVyYXRlVGFibGVXaXRoTW9kZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/GenerateTableWithViewModel.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/GenerateTableWithViewModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JTYW1wbGVzXEdlbmVyYXRlVGFibGVXaXRoVmlld01vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/RazorSamplesOverview.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/RazorSamplesOverview.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JTYW1wbGVzXFJhem9yU2FtcGxlc092ZXJ2aWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/ShowCustomizeASPTagHelperSample.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/ShowCustomizeASPTagHelperSample.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JTYW1wbGVzXFNob3dDdXN0b21pemVBU1BUYWdIZWxwZXJTYW1wbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/ShowCustomizeHTMLHelperSample1.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/ShowCustomizeHTMLHelperSample1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JTYW1wbGVzXFNob3dDdXN0b21pemVIVE1MSGVscGVyU2FtcGxlMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/ShowPartialViewSample.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/RazorSamples/ShowPartialViewSample.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6b3JTYW1wbGVzXFNob3dQYXJ0aWFsVmlld1NhbXBsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/Components/CultureSwitcher/Default.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/Components/CultureSwitcher/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ3VsdHVyZVN3aXRjaGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/Error.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/_DateTimePartial.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/_DateTimePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYXRlVGltZVBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/_LoginPartial.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/_SpecialOfferPartialView.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/_SpecialOfferPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TcGVjaWFsT2ZmZXJQYXJ0aWFsVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/ShoppingPayment/Payment.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/ShoppingPayment/Payment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdQYXltZW50XFBheW1lbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/ShoppingPayment/ShoppingCartOverview.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/ShoppingPayment/ShoppingCartOverview.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdQYXltZW50XFNob3BwaW5nQ2FydE92ZXJ2aWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/StateManagement/TempDataSample.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/StateManagement/TempDataSample.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVNYW5hZ2VtZW50XFRlbXBEYXRhU2FtcGxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/StateManagement/TempDataSecondSample.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/StateManagement/TempDataSecondSample.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVNYW5hZ2VtZW50XFRlbXBEYXRhU2Vjb25kU2FtcGxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/StateManagement/TempDataThirdSample.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/StateManagement/TempDataThirdSample.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVNYW5hZ2VtZW50XFRlbXBEYXRhVGhpcmRTYW1wbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/StateManagement/ViewBagSampe.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/StateManagement/ViewBagSampe.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVNYW5hZ2VtZW50XFZpZXdCYWdTYW1wZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/StateManagement/ViewDataSample.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/StateManagement/ViewDataSample.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVNYW5hZ2VtZW50XFZpZXdEYXRhU2FtcGxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/_ViewImports.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/_ViewStart.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Aktueller Kurs/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/_Layout.cshtml]
+[C:/gehaltene Kurse/MVC_2022_KW5_ppedv/MVCKurs/MVCAndRazorSamples/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hj926x2f0g

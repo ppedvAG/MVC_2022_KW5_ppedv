@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jyYzleAhzOyoYnE9/JxRoQnZFCKtIwdiLKUG7GGxIxoCYWQNdHTDRncy36xW3cNxF4VVuVFVlZ1r6mbNEmNOPw==",
+  "dgSpecHash": "YNqDqDJoAfHMtLFR1xkMuQCAWy01ktvBVx9Ii9Hx7ez8bkf21MLtu4GmsVUH5D5Y2gNWSoAVIKXf2rsVbIdueQ==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\MVC_2022_KW5_ppedv\\MVCKurs\\DefaultMVCNET5\\DefaultMVCNET5.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\gehaltene Kurse\\MVC_2022_KW5_ppedv\\MVCKurs\\DefaultMVCNET5\\DefaultMVCNET5.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
